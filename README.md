@@ -20,6 +20,12 @@ la teoría. Funciona sin conexión y no envía ningún dato. En español e ingl�
 
 Cada archivo es la aplicación completa: no hace falta instalar nada más.
 
+## Apoya el proyecto
+
+PixAstro es gratuito. Si te resulta útil y quieres ayudar a que siga mejorando:
+
+[![Donar con PayPal](https://img.shields.io/badge/Donar-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/biz/profile/babaloo)
+
 ## Cómo se usa
 
 1. **Cargar**: arrastra la carpeta de la sesión. PixAstro detecta qué es cada toma (light,
@@ -51,6 +57,12 @@ offline and never sends any data. In English and Spanish.
 | macOS 12 or later, Apple Silicon Mac (M1 or later) | `PixAstro-<version>-macos-arm64.dmg` | Open the `.dmg` and drag PixAstro to Applications. Signed and notarized by Apple. |
 
 Each file is the complete application: nothing else to install.
+
+### Support the project
+
+PixAstro is free. If you find it useful and want to help it keep improving:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?logo=paypal&logoColor=white)](https://www.paypal.com/biz/profile/babaloo)
 
 ### How it works
 
