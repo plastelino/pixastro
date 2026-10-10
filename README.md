@@ -17,6 +17,7 @@ la teoría. Funciona sin conexión y no envía ningún dato. En español e ingl�
 | Windows 10/11 (64 bits) | `PixAstro-<versión>-windows-x64.exe` | Doble clic. No se instala nada. La primera vez Windows puede avisar: **Más información → Ejecutar de todas formas**. |
 | Linux x86-64 (Ubuntu 22.04, Debian 12, Fedora 36, Mint 21 o posteriores) | `PixAstro-<versión>-linux-x86_64` | Dale permiso de ejecución una vez (Propiedades → Permisos → «Permitir ejecutar», o `chmod +x`) y ábrelo con doble clic. |
 | macOS 12 o posterior, Mac con Apple Silicon (M1 o posterior) | `PixAstro-<versión>-macos-arm64.dmg` | Abre el `.dmg` y arrastra PixAstro a Aplicaciones. Firmado y notarizado por Apple. |
+| Android 7 o posterior (64 bits) | `PixAstro-<versión>-android-arm64.apk` | Descárgalo en el móvil, ábrelo y permite instalar apps de esa fuente cuando lo pida. Pensado para procesar las tomas desde un pincho USB (con adaptador OTG); también desde la memoria del móvil. |
 
 Cada archivo es la aplicación completa: no hace falta instalar nada más.
 
@@ -55,6 +56,7 @@ offline and never sends any data. In English and Spanish.
 | Windows 10/11 (64-bit) | `PixAstro-<version>-windows-x64.exe` | Double-click. Nothing is installed. The first time Windows may warn: **More info → Run anyway**. |
 | Linux x86-64 (Ubuntu 22.04, Debian 12, Fedora 36, Mint 21 or later) | `PixAstro-<version>-linux-x86_64` | Make it executable once (Properties → Permissions → "Allow executing", or `chmod +x`) and double-click it. |
 | macOS 12 or later, Apple Silicon Mac (M1 or later) | `PixAstro-<version>-macos-arm64.dmg` | Open the `.dmg` and drag PixAstro to Applications. Signed and notarized by Apple. |
+| Android 7 or later (64-bit) | `PixAstro-<version>-android-arm64.apk` | Download it on the phone, open it and allow installing apps from that source when asked. Designed to process frames from a USB drive (with an OTG adapter); the phone's storage works too. |
 
 Each file is the complete application: nothing else to install.
 
