@@ -21,6 +21,12 @@ la teoría. Funciona sin conexión y no envía ningún dato. En español e ingl�
 
 Cada archivo es la aplicación completa: no hace falta instalar nada más.
 
+## Manual de usuario
+
+- **Versión web interactiva**: [pixastro.org/manual/es/](https://www.pixastro.org/manual/es/) ([English](https://www.pixastro.org/manual/en/))
+- **En GitHub (Markdown con capturas)**: [docs/MANUAL_ES.md](docs/MANUAL_ES.md) ([English](docs/MANUAL_EN.md))
+- **PDF descargable**: [docs/PixAstro-Manual-ES.pdf](docs/PixAstro-Manual-ES.pdf) ([English](docs/PixAstro-Manual-EN.pdf))
+
 ## Apoya el proyecto
 
 PixAstro es gratuito. Si te resulta útil y quieres ayudar a que siga mejorando:
@@ -59,6 +65,12 @@ offline and never sends any data. In English and Spanish.
 | Android 7 or later (64-bit) | [Google Play](https://play.google.com/store/apps/details?id=com.babaloo.PixAstro) | Install it from Google Play. Designed to process frames from a USB drive (with an OTG adapter); the phone's storage works too. |
 
 Each file is the complete application: nothing else to install.
+
+### User Manual
+
+- **Interactive web version**: [pixastro.org/manual/en/](https://www.pixastro.org/manual/en/) ([Español](https://www.pixastro.org/manual/es/))
+- **On GitHub (Markdown with screenshots)**: [docs/MANUAL_EN.md](docs/MANUAL_EN.md) ([Español](docs/MANUAL_ES.md))
+- **Downloadable PDF**: [docs/PixAstro-Manual-EN.pdf](docs/PixAstro-Manual-EN.pdf) ([Español](docs/PixAstro-Manual-ES.pdf))
 
 ### Support the project
 
